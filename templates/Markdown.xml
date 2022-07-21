@@ -1,5 +1,5 @@
 <templateSet group="Markdown">
-  <template name="doc" value="{{&lt;doc $END$&gt;}}" toReformat="false" toShortenFQNames="true">
+  <template name="doc" value="{{&lt;doc $END$&gt;}}" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="ANY_OPENAPI_JSON_FILE" value="false" />
       <option name="ANY_OPENAPI_YAML_FILE" value="false" />

@@ -18,5 +18,6 @@
     <entry key="ide.new.project.model" value="false" />
     <entry key="ide.mac.transparentTitleBarAppearance" value="false" />
     <entry key="rider.enable.designer.winForms" value="true" />
+    <entry key="ide.experimental.ui" value="true" />
   </component>
 </application>
